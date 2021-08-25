@@ -5,7 +5,6 @@
    - VC - Opens Varsity Folder
    - custom - Prints all custom commands
    - custedit - Opens this document
-   - i3edit - Opens i3wm config file
 ### ============================================
 ## Cpu Clock Speeds
 ### ============================================
@@ -14,7 +13,8 @@
    - cpu-2.0 - UC the CPU to 2.0Ghz all cores
    - cpu-2.4 - Normal Clock of CPU
 ### ============================================
-## i3 keybinds:
+## i3Wm:
+   - i3edit - Opens i3wm config file
    - $mod+n - Opens Nemo
 ### ============================================
 
