@@ -12,5 +12,6 @@ alias resolution='arandr'
 alias hack='feh --bg-scale Pictures/Wallpaper/hack.jpg'
 alias now='timedatectl | lolcat'
 alias pi='ssh pi@192.168.8.148'
+alias sleep='systemctl suspend'
 # Cpu Commands
 alias speed='cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_max_freq'

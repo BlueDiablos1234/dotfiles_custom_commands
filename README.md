@@ -11,6 +11,7 @@
  - hack - just changes bg (for now)
  - now - Displays time
  - pi - SSH into the pi
+ - sleep - Suspends the current session
 ### ============================================
 
 ###### Version 0.3
