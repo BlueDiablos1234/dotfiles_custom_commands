@@ -9,7 +9,8 @@
  - custom - Prints all custom commands
  - custedit - Opens this document
  - hack - just changes bg (for now)
-
+ - now - Displays time
+ - pi - SSH into the pi
 ### ============================================
 
 ###### Version 0.3
