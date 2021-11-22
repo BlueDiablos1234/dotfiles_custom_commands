@@ -3,12 +3,10 @@ bashedit - Opens ~/.bashrc to edit commands
 comedit - Opens the custom commands.sh file
 dotfiles - Opens the github dotfiles folder
 resolution - Opens resolution adjuster
-cowtime - Cow will tell you the time
 VC - Opens Varsity Folder
 custom - Prints all custom commands
 custedit - Opens this document
 hack - Just changes bg (for now)
-now - Displays current time
 sleep - Suspends the current session
 ============================================
 i3
