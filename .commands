@@ -1,12 +1,11 @@
-============================================
-bashedit - Opens ~/.bashrc to edit commands
-comedit - Opens the custom commands.sh file
-dotfiles - Opens the github dotfiles folder
-resolution - Opens resolution adjuster
-VC - Opens Varsity Folder
-custom - Prints all custom commands
+===============================================
+comedit - Opens ~/.pi_bash.sh to edit commands
 custedit - Opens this document
-hack - Just changes bg (for now)
-sleep - Suspends the current session
-============================================
-Github RPI Version 0.4
+custom - Prints all custom commands
+temp - Displays current temp
+speed - Displays current CPU clock speed
+info - Displays CPU speed/temp
+deluge - Starts Torrent Client
+server - Opens server folder
+===============================================
+Pi_Version 0.3
