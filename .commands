@@ -9,9 +9,4 @@ custedit - Opens this document
 hack - Just changes bg (for now)
 sleep - Suspends the current session
 ============================================
-i3
-============================================
-($mod + x) - Locks i3
-($mod + n) - Opens thunar
-============================================
-Github Version 0.4
+Github RPI Version 0.4
