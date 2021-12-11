@@ -7,5 +7,6 @@ speed - Displays current CPU clock speed
 info - Displays CPU speed/temp
 deluge - Starts Torrent Client
 server - Opens server folder
+shutdown - Shuts the system down ASAP
 ===============================================
 Pi_Version 0.3
